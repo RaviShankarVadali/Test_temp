@@ -1,0 +1,51 @@
+﻿## RECSRecommendations Upload File,,,,,,,,,
+## RECS''## RECS'' indicates a Recommendations pre-process header. Please do not remove these lines.,,,,,,,,,
+## RECS,,,,,,,,,
+## RECSUse this file to upload product display information to Recommendations. Each product has its own row. Each line must contain 19 values and if not all are filled a space should be left.,,,,,,,,,
+## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,,
+## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,,
+## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.flag
+BBVBCB00,Custom Vinyl Banners,653,Custom Banners,https://cdn.bestofsigns.com/media/catalog/product/b/o/bos_n0_bbvbcb00_1.jpg,1,https://www.bestofsigns.com/custom-banners.html,NAIDL,1.94,1
+BBVLPS01,Vinyl Posters (Opaque),667,Custom Banners,https://cdn.bestofsigns.com/media/catalog/product/b/o/bos_n0_bbvbcb00_1.jpg,1,https://www.bestofsigns.com/custom-banners.html,NAIDL,1.79,1
+BBVLPS02,Vinyl Posters (Tarnslucent),654,Custom Banners,NA,2,NA,NAIDL,1.79,0
+BBVLPS03,Vinyl Posters (Tarnslucent),655,Custom Banners,NA,3,NA,NAIDL,1.79,0
+BBVLPS04,Vinyl Posters (Tarnslucent),656,Custom Banners,NA,4,NA,NAIDL,1.79,0
+BBVLPS05,Vinyl Posters (Tarnslucent),657,Custom Banners,NA,5,NA,NAIDL,1.79,0
+BBVLPS06,Vinyl Posters (Tarnslucent),658,Custom Banners,NA,6,NA,NAIDL,1.79,0
+BBVLPS07,Vinyl Posters (Tarnslucent),659,Custom Banners,NA,7,NA,NAIDL,1.79,0
+BBVLPS08,Vinyl Posters (Tarnslucent),660,Custom Banners,NA,8,NA,NAIDL,1.79,0
+BBVLPS09,Vinyl Posters (Tarnslucent),661,Custom Banners,NA,9,NA,NAIDL,1.79,0
+BBVLPS10,Vinyl Posters (Tarnslucent),662,Custom Banners,NA,10,NA,NAIDL,1.79,0
+BBVLPS11,Vinyl Posters (Tarnslucent),663,Custom Banners,NA,11,NA,NAIDL,1.79,0
+BBVLPS12,Vinyl Posters (Tarnslucent),664,Custom Banners,NA,12,NA,NAIDL,1.79,0
+BBVLPS13,Vinyl Posters (Tarnslucent),665,Custom Banners,NA,13,NA,NAIDL,1.79,0
+BBVLPS14,Vinyl Posters (Tarnslucent),666,Custom Banners,NA,14,NA,NAIDL,1.79,0
+BBVLPS15,Vinyl Posters (Tarnslucent),667,Custom Banners,NA,15,NA,NAIDL,1.79,0
+BBVLPS16,Vinyl Posters (Tarnslucent),668,Custom Banners,NA,16,NA,NAIDL,1.79,0
+BBVLPS17,Vinyl Posters (Tarnslucent),669,Custom Banners,NA,17,NA,NAIDL,1.79,0
+BBVLPS18,Vinyl Posters (Tarnslucent),670,Custom Banners,NA,18,NA,NAIDL,1.79,0
+BBVLPS19,Vinyl Posters (Tarnslucent),671,Custom Banners,NA,19,NA,NAIDL,1.79,0
+BBVLPS20,Vinyl Posters (Tarnslucent),672,Custom Banners,NA,20,NA,NAIDL,1.79,0
+BBVLPS21,Vinyl Posters (Tarnslucent),673,Custom Banners,NA,21,NA,NAIDL,1.79,0
+BBVLPS22,Vinyl Posters (Tarnslucent),674,Custom Banners,NA,22,NA,NAIDL,1.79,0
+BBVLPS23,Vinyl Posters (Tarnslucent),675,Custom Banners,NA,23,NA,NAIDL,1.79,0
+BBVLPS24,Vinyl Posters (Tarnslucent),676,Custom Banners,NA,24,NA,NAIDL,1.79,0
+BBVLPS25,Vinyl Posters (Tarnslucent),677,Custom Banners,NA,25,NA,NAIDL,1.79,0
+BBVLPS26,Vinyl Posters (Tarnslucent),678,Custom Banners,NA,26,NA,NAIDL,1.79,0
+BBVLPS27,Vinyl Posters (Tarnslucent),679,Custom Banners,NA,27,NA,NAIDL,1.79,0
+BBVLPS28,Vinyl Posters (Tarnslucent),680,Custom Banners,NA,28,NA,NAIDL,1.79,0
+BBVLPS29,Vinyl Posters (Tarnslucent),681,Custom Banners,NA,29,NA,NAIDL,1.79,0
+BBVLPS30,Vinyl Posters (Tarnslucent),682,Custom Banners,NA,30,NA,NAIDL,1.79,0
+BBVLPS31,Vinyl Posters (Tarnslucent),683,Custom Banners,NA,31,NA,NAIDL,1.79,0
+BBVLPS32,Vinyl Posters (Tarnslucent),684,Custom Banners,NA,32,NA,NAIDL,1.79,0
+BBVLPS33,Vinyl Posters (Tarnslucent),685,Custom Banners,NA,33,NA,NAIDL,1.79,0
+BBVLPS34,Vinyl Posters (Tarnslucent),686,Custom Banners,NA,34,NA,NAIDL,1.79,0
+BBVLPS35,Vinyl Posters (Tarnslucent),687,Custom Banners,NA,35,NA,NAIDL,1.79,0
+BBVLPS36,Vinyl Posters (Tarnslucent),688,Custom Banners,NA,36,NA,NAIDL,1.79,0
+BBVLPS37,Vinyl Posters (Tarnslucent),689,Custom Banners,NA,37,NA,NAIDL,1.79,0
+BBVLPS38,Vinyl Posters (Tarnslucent),690,Custom Banners,NA,38,NA,NAIDL,1.79,0
+BBVLPS39,Vinyl Posters (Tarnslucent),691,Custom Banners,NA,39,NA,NAIDL,1.79,0
+BBVLPS40,Vinyl Posters (Tarnslucent),692,Custom Banners,NA,40,NA,NAIDL,1.79,0
+BBVLPS41,Vinyl Posters (Tarnslucent),693,Custom Banners,NA,41,NA,NAIDL,1.79,0
+BBVLPS42,Vinyl Posters (Tarnslucent),694,Custom Banners,NA,42,NA,NAIDL,1.79,0
+BBVLPS43,Vinyl Posters (Tarnslucent),695,Custom Banners,NA,43,NA,NAIDL,1.79,0
